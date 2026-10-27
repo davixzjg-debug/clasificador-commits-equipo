@@ -1,4 +1,4 @@
-# Informe Técnico - Caracterización del Modelo Local ( pinzon )
+# Informe Técnico - Caracterización del Modelo Local
 
 ## Ficha de Caracterización (Perfil A - qwen2.5-coder:1.5b)
 
@@ -11,23 +11,14 @@
 - **RAM usada durante la inferencia:** Verificada con free -h
 - **Calidad percibida (1 a 5):** 5 - Excelente tiempo de respuesta y fluidez con la GPU local.
 
+# David Jose Gonzalez Noguera - Informe tecnico
+Ficha de Caracterización (Perfil B - qwen2.5:0.5b)
 
-( MONCADA )
- Ficha de Caracterizació.
-Perfil de hardware: Perfil A (32 GB RAM, 1 TB SSD)   
-PNG
-
-RAM total del equipo: 32 GB   
-PNG
-
-Modelo y etiqueta: qwen2.5-coder:1.5b   
-PNG
-
-Tamaño en disco: ~1 GB   
-PNG
-
-Latencia de 5 ejecuciones (ms): (Ingresa el valor de tus pruebas en ms)
-
-Latencia promedio: (Ingresa el promedio registrado)
-
-RAM usada durante la inferencia: Verificada con free -h
+* **Perfil de hardware:** Perfil B (8 GB RAM)
+* **RAM total del equipo:** 8 GB
+* **Modelo y etiqueta:** qwen2.5:0.5b
+* **Tamaño en disco:** ~512 gb
+* **Latencia de 5 ejecuciones (ms):** 9978 ms
+* **Latencia promedio:** 9978 ms
+* **RAM usada durante la inferencia:** Verificada con free -h
+* **Calidad percibida (1 a 5):** 5 - Excelente tiempo de respuesta y fluidez con el modelo local.
